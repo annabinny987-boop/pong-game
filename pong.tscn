@@ -1,0 +1,6 @@
+[gd_scene format=3 uid="uid://cbrve2j7ssaiq"]
+
+[ext_resource type="Script" uid="uid://b37eg3p5dq5xa" path="res://pong.gd" id="1_8w31r"]
+
+[node name="Node2D" type="Node2D" unique_id=637305832]
+script = ExtResource("1_8w31r")
