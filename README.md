@@ -57,3 +57,10 @@ By debugging the code and testing different parts of the game, I was able to fix
 Made as part of the 20 Games Making Challenge.
 
 
+screenshots
+<img width="1887" height="1073" alt="Screenshot 2026-09-12 224543" src="https://github.com/user-attachments/assets/2ebc4279-bf46-4427-9595-9a89f5e82faa" />
+<img width="1881" height="1173" alt="Screenshot 2026-09-12 224603" src="https://github.com/user-attachments/assets/896b7e4b-f010-413a-a81c-0862166a95fd" />
+
+
+
+
